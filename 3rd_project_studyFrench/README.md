@@ -1,4 +1,4 @@
-# 3rd_project_studyFrench
+# 단비 프랑스어
 
 
 | 프로젝트 소개
