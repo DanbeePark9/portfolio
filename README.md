@@ -3,7 +3,7 @@
 
 + 나이 : 1995년생 26세
 
-+ 개발 블로그 : https://ceodanbi.tistory.com/tag
++ 개발 블로그 : https://ceodanbi.tistory.com/18?category=882361
 
 + 경력 : 자바 웹개발 6개월
 
