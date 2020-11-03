@@ -5,11 +5,7 @@
 
 + 개발 블로그 : https://ceodanbi.tistory.com/18?category=882361
 
-+ 경력 : 자바 웹개발 6개월
-
-+ 자격증 : 
-   + 토익스피킹 레벨 6 TOEIC SPEAKING LEVEL6
-   + 일본어자격증 2급 JLPT N2
++ 교육 : 자바 웹개발 6개월
 
 + 주언어 및 보조언어 :
    + Java, javascript, jsp, sql, html, css, Spring, react, ajax, json
