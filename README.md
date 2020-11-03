@@ -13,10 +13,12 @@
 
 + 프로젝트 경력 :
    + 채팅 프로그램
-     <img src="https://user-images.githubusercontent.com/64319909/97963560-b7589f00-1dfa-11eb-8505-e416acbe8373.png">
+    <br> <img src="https://user-images.githubusercontent.com/64319909/97963560-b7589f00-1dfa-11eb-8505-e416acbe8373.png">
+     
      
    + 동아리 중개 플랫폼
-     <img src="https://user-images.githubusercontent.com/64319909/97963558-b6277200-1dfa-11eb-84e9-a1927dbd1336.png">
+    <br> <img src="https://user-images.githubusercontent.com/64319909/97963558-b6277200-1dfa-11eb-84e9-a1927dbd1336.png">
+   
    
    + 프랑스어 공부 커뮤니티
-     <img src="https://user-images.githubusercontent.com/64319909/97963561-b7f13580-1dfa-11eb-9603-f42989df0a61.png">
+    <br> <img src="https://user-images.githubusercontent.com/64319909/97963561-b7f13580-1dfa-11eb-9603-f42989df0a61.png">
