@@ -11,11 +11,11 @@
    + 토익스피킹 레벨 6 TOEIC SPEAKING LEVEL6
    + 일본어자격증 2급 JLPT N2
 
-+ 주언어 및 보조언어
++ 주언어 및 보조언어 :
    + Java, javascript, jsp, sql, html, css, Spring, react, ajax, json
    + Oracle
 
-+ 프로젝트 경력
++ 프로젝트 경력 :
    + 채팅 프로그램
    + 동아리 중개 플랫폼
    + 프랑스어 공부 커뮤니티
