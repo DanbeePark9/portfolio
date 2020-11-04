@@ -22,3 +22,6 @@
    
    + 프랑스어 공부 커뮤니티
     <br> <img src="https://user-images.githubusercontent.com/64319909/97963561-b7f13580-1dfa-11eb-9603-f42989df0a61.png">
+
++ 주 운영체제
+   + Window, Mac
