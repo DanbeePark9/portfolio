@@ -11,6 +11,9 @@
    + Java, javascript, jsp, sql, html, css, Spring, react, ajax, json
    + Oracle
 
++ 주 에디터
+   + Spring Tool Suite 4, Eclipse 2019-12, VScode
+   
 + 프로젝트 경력 :
    + 채팅 프로그램
     <br> <img src="https://user-images.githubusercontent.com/64319909/97963560-b7589f00-1dfa-11eb-8505-e416acbe8373.png">
