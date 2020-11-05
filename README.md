@@ -12,7 +12,7 @@
    + Oracle
 
 + 주 에디터
-   + Spring Tool Suite 4, Eclipse 2019-12, VScode
+   + Spring Tool Suite, Eclipse, VScode
    
 + 프로젝트 경력 :
    + 채팅 프로그램
