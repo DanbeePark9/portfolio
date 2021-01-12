@@ -1,18 +1,18 @@
   # 포트폴리오
 + 이름 : 박단비
 
-+ 나이 : 1995년생 26세
++ 나이 : 1995년생 27세
 
 + 개발 블로그 : https://ceodanbi.tistory.com/
 
 + 교육 : 자바 웹개발 6개월
 
 + 주언어 및 보조언어 :
-   + Java, javascript, jsp, sql, html, css, Spring, react, ajax, json
-   + Oracle
+   + Java, javascript, jsp, sql, html, css, Spring, react, ajax, json, xml
+   + Database : Oracle, MySQL
 
 + 주 에디터
-   + Spring Tool Suite 4, Eclipse, VScode
+   + Spring Tool Suite 4, Eclipse, VScode, Oracle sqldeveloper, MySQL workbench
 
 + 프로젝트 경력 :
    + 채팅 프로그램
